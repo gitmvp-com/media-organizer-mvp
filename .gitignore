@@ -1,0 +1,31 @@
+# Binaries
+media-organizer
+media-organizer.exe
+media-organizer-*
+
+# Database
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
